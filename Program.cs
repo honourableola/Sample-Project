@@ -7,6 +7,7 @@ namespace Batch21Assessment
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine();
             Console.WriteLine("======================================");
             Console.WriteLine("Welcome to My Simple Calculator App");
             Console.WriteLine("======================================");
